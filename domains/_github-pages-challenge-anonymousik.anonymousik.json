@@ -5,5 +5,15 @@
   },
   "records": {
     "TXT": "8c8810749d371c0c3f759bbda6761d"
+    "MX": [
+      {
+        "target": "mx1.improvmx.com",
+        "priority": 10
+      },
+      {
+        "target": "mx2.improvmx.com",
+        "priority": 20
+      }
+    ]
   }
 }
